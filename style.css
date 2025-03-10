@@ -2,4 +2,21 @@ body {
   background:
     #282828;
 }
-  
+.button {
+   text-align: center;
+   border-radius: 20px;
+   height: 100px;
+   width: 250px;
+   font-size: 25px;
+   font-family: inter-semibold;
+   color: white;
+   background-color: rgb(29, 29, 29);
+   border-color: white;
+   border-width: 0.5px;
+   box-shadow: none;
+   outline: none;
+   border-style: solid;
+   cursor: pointer;
+   transition: 0.3s;
+   margin: 5px;
+}
