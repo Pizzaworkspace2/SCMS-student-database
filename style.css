@@ -1,6 +1,7 @@
 body {
   background-image: url("a25739e1f5ecb49d1849d7d8cb1382b5.gif");
   background-color: #cccccc;
+  background-size: cover;
 }
 
 .button {
@@ -25,8 +26,5 @@ body {
 }
 .button1 {border-radius: 8px;}
 
-img {
-  height: 768;
-  width: 1024;
-}
+
   
