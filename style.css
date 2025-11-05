@@ -24,3 +24,9 @@ body {
 
 }
 .button1 {border-radius: 8px;}
+
+img {
+  height: 768;
+  width: 1024;
+}
+  
