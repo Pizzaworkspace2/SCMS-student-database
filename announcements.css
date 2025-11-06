@@ -2,4 +2,26 @@ body {
 background-color: rgb 170,190,190;
 }
 
+.button {
+   text-align: center;
+   border-radius: 8px;
+   height: 100px;
+   width: 250px;
+   font-size: 25px;
+   font-family: inter-semibold;
+   color: white;
+   background-color: rgb(60, 28, 112);
+   border-color: white;
+   border-width: 0.5px;
+   box-shadow: none;
+   outline: none;
+   border-style: solid;
+   cursor: pointer;
+   transition: 0.3s;
+   margin: 5px;
+
+
+}
+.button1 {border-radius: 8px;}
+
   
