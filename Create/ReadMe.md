@@ -1,5 +1,5 @@
- **━━━━━ Copyright 2025 SCMS Devs © ━━━━━  
- -
+ ━━━━━ Copyright 2025 SCMS Devs © ━━━━━  
+ 
  **🎨 Coding**
  -
  For Collaborators on this project, here is a step by step guide on how to edit, and some basic guidelines.
