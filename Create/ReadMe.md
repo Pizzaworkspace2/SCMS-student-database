@@ -10,6 +10,9 @@
  - **🎁 Use templates from `templates.txt` if you want to, you'll need them for the games and homepage.**
  - **🏡 Edit the hompage by opening `index.html`.**
  - **🎮 Edit the gamehub by opening `gamehub.html`.**
- 
+
+ **📌 Guidelines**
+ - 
+ -**🔧 Don't change anything people have added unless they give you permission to do so.**
 
 
