@@ -14,5 +14,7 @@
  **📌 Guidelines**
  - 
  - **🔧 Don't change anything people have added unless they give you permission to do so.**
+ - **🙂 You can add on to it though.**
+ - **🏡 Don't edit the homepage unless I say you can.**
 
 
