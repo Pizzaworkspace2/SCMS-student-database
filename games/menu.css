@@ -1,8 +1,15 @@
-.button {
+body {
+   background-image: url("images (32).jpeg");
+   background-size: cover;
+   opacity: 1
+}
+    
+   
+   .button {
    text-align: center;
    border-radius: 16px;
    height: 60px;
-   width: 200px;
+   width: 120px;
    font-size: 25px;
    font-family: inter-semibold;
    color: white;
@@ -17,11 +24,21 @@
    margin: 35px;
 
 }
-.button1 {border-radius: 16px;}
+.button1 {border-radius: 16px;
+         opacity: 1;
+         }
+
+.button2 {border-radius: 16px;
+          opacity: 0.7
+          background-color: rgb(255,255,255);
+         }
+          
 
 img {
   float: left;
-  height: 400px;
-  width: 500px;
+  height: 200px;
+  width: 250px;
   border-radius: 16px;
+  opacity: 1;
+}
   
