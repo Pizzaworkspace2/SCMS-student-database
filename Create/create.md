@@ -5,7 +5,8 @@
  **</> Repository Coding**
  - 
  - **🎨 Craft your code in HTML, CSS, and JS**
- - 🧩 Feel free to add on new games, pages or info.
+ - **🧩 Feel free to add on new games, pages or info.**
+ - **📂 Organize your files for new pages and source code in folders.**
  
 
 
