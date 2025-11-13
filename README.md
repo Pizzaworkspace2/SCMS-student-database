@@ -7,9 +7,9 @@ Welcome, let me introduce you to the SCMS Student database, a open source websit
 
 🐮**Pizzaworkspace2**
 - 
-- **Knows HTML and CSS**
-- **Created this website**
-- **Worked on games and announcements.**
-- **Fixes bugs.**
+- **🧠 Knows HTML and CSS**
+- **🌐 Created this website**
+- **🛠️ Worked on homepage, games and announcements.**
+- **👾 Fixes bugs.**
 
 
