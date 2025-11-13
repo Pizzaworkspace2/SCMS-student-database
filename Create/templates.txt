@@ -1,1 +1,4 @@
+homepage html button template;
+
+<li><a href="yourpagethatitlinks.html"><center> <button class="button button1"><u>buttonname</button></a></li>
 
