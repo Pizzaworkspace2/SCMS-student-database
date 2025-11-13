@@ -13,6 +13,6 @@
 
  **📌 Guidelines**
  - 
- -**🔧 Don't change anything people have added unless they give you permission to do so.**
+ - **🔧 Don't change anything people have added unless they give you permission to do so.**
 
 
