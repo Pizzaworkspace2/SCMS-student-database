@@ -8,6 +8,8 @@
  - **🧩 Feel free to add on new games, pages or info.**
  - **📂 Organize your files for new pages and source code in folders.**
  - **🎁 Use templates from `templates.txt` if you want to, you'll need them for the games and homepage.**
+ - **🏡 Edit the hompage by opening `index.html`.
+ - **🎮 Edit the gamehub by opening `gamehub.html`.
  
 
 
