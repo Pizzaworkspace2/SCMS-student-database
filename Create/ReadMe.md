@@ -1,4 +1,4 @@
-**━━━━━ Copyright 2025 SCMS Devs © ━━━━━**
+**━━━━━ Copyright 2025 SCMS Web™ ━━━━━**
  
  **🎨 Coding**
  -
@@ -19,5 +19,10 @@
  - **🙂 You can add on to it though.**
  - **🏡 Don't edit the homepage unless I say you can.**
  - **🪦 Don't clap someone elses work.**
+
+   **🚀 Updating the website 🚀**
+   -⚙️ Click on "settings"
+   - Go to pages.
+   - Sava the page as /docs and /root and wait a few minutes for the page to update.
 
 
