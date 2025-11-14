@@ -21,6 +21,7 @@
  - **🪦 Don't clap someone elses work.**
 
    **🚀 Updating the website 🚀**
+   -
    -⚙️ Click on "settings"
    - Go to pages.
    - Sava the page as /docs and /root and wait a few minutes for the page to update.
