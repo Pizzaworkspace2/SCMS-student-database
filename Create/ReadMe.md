@@ -27,4 +27,7 @@
    - Go to pages.
    - Save the page as /docs and /root and wait a few minutes for the page to update.
 
+     **Now that you know what to do, click on <> code at the top of page**
+     **Happy Coding!**
+
 
