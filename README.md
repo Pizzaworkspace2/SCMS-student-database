@@ -12,8 +12,8 @@ Welcome, let me introduce you to the SCMS Student database, a open source websit
 - **🛠️ Worked on homepage, games and announcements.**
 - **👾 Fixes bugs.**
 
-**your username**
+**Freddy863**
   -
-  -
+  - **Adds games**
 
 
