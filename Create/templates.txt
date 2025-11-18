@@ -2,3 +2,10 @@ homepage html button template;
 
 <li><a href="yourpagethatitlinks.html"><center> <button class="button button1"><u>buttonname</button></a></li>
 
+edit games button
+
+<li><a href="gamehost.html"><button class="button button2"> <img src="file" alt="alt">
+   <h2 style="color: black;">Gamename</h2>
+  <p style="color: black;">desc</p> 
+   </button></a></li>
+
