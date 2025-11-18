@@ -35,6 +35,7 @@ body {
    background-color: rgb(255, 255, 255);
    height: 260px;
    width: 560px;
+   float: left;
          }
 .button2: hover {
    transform: scale(1.2);
