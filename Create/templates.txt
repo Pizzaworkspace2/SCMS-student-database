@@ -4,8 +4,8 @@ homepage html button template;
 
 edit games button
 
-<li><a href="gamehost.html"><button class="button button2"> <img src="file" alt="alt">
+<a href="gamehost.html"><button class="button button2"> <img src="file" alt="alt">
    <h2 style="color: black;">Gamename</h2>
   <p style="color: black;">desc</p> 
-   </button></a></li>
+   </button></a>
 
