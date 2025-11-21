@@ -1,2 +1,0 @@
-PLEASE FIX THE BUG WITH GUNSPIN
-I put the file but it is not loading.
