@@ -1,4 +1,4 @@
-[![SCMS](https://resources.finalsite.net/images/f_auto,q_auto/v1750953738/cmsk12ncus/izea02brjuhsycofm2j0/SouthCharlotteMiddleSchoolPrimaryLogoImage.png)]
+![SCMS](https://resources.finalsite.net/images/f_auto,q_auto/v1750953738/cmsk12ncus/izea02brjuhsycofm2j0/SouthCharlotteMiddleSchoolPrimaryLogoImage.png)
 -
 **SCMS Students** 
 -
