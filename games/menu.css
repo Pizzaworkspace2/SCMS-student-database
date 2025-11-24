@@ -50,6 +50,15 @@ img {
   opacity: 1;
 }
 
+.app {
+   height: 224px;
+   width: 224px;
+   float: left;
+   border-radius: 16px;
+   opacity: 1;
+}
+   
+
 p {
    font-size: 14px;
 }
