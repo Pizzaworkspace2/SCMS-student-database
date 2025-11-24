@@ -24,7 +24,14 @@ body {
 
 
 }
-.button1 {border-radius: 8px;}
+.button1 {
+  border-radius: 8px;
+}
+
+.button1:hover {
+  transform: scale(1.05);
+}
+
 
 img {
   float: left;
