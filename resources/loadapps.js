@@ -4,6 +4,7 @@ let link;
 let res;
 const classlink = document.getElementById('classlink');
 const chesskid = document.getElementById('chesskid');
+const cli = document.getElementById('cli');
 
 async function getJSON() {
   res = await fetch(`links.json`);
@@ -13,6 +14,7 @@ async function getJSON() {
 getJSON().then(() => {
 classlink.href = link.classlink;
 chesskid.href = link.chesskid;
+cli.src = link.cli;
   
   });
 });
