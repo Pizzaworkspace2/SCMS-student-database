@@ -10,6 +10,7 @@ const cli = document.getElementById('cli');
 const cki = document.getElementById('cki');
 const cai = document.getElementById('cai');
 const caai = document.getElementById('caai');
+const masteryconnect = document.getElementById('masteryconnect');
 
 async function getJSON() {
   res = await fetch(`links.json`);
