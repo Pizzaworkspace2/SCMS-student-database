@@ -24,9 +24,9 @@ canvas.href = link.canvas;
 canva.href = link.canva;
 cli.src = link.cli;
 cki.src = link.cki;
-cai.src = link.cai
-masteryconnect.href = link.masteryconnect
+cai.src = link.cai;
+masteryconnect.href = link.masteryconnect;
 caai.src = link.caai;
-  
+  mcnt.src = link.mcnt;
   });
 });
