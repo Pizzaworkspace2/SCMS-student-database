@@ -5,7 +5,7 @@ background-color: rgb 170,190,190;
 .button {
    text-align: center;
    border-radius: 8px;
-   width: max-content;
+   length: max-content;
    font-size: 25px;
    font-family: inter-semibold;
    color: white;
