@@ -10,7 +10,6 @@ const cli = document.getElementById('cli');
 const cki = document.getElementById('cki');
 const cai = document.getElementById('cai');
 const caai = document.getElementById('caai');
-const masteryconnect = document.getElementById('masteryconnect');
 
 async function getJSON() {
   res = await fetch(`links.json`);
@@ -25,8 +24,7 @@ canva.href = link.canva;
 cli.src = link.cli;
 cki.src = link.cki;
 cai.src = link.cai;
-masteryconnect.href = link.masteryconnect;
-caai.src = link.caai;
+
   mcnt.src = link.mcnt;
   });
 });
