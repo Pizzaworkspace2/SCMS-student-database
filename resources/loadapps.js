@@ -7,10 +7,10 @@ const chesskid = document.getElementById('chesskid');
 const canvas = document.getElementById('canvas');
 const canva = document.getElementById('canva');
 const master = document.getElementById('master');
-const cli = document.getElementById('cli')
-const cki = document.getElementById('cki')
-const cai = document.getElementById('cai')
-const caai = document.getElementById('caai')
+const cli = document.getElementById('cli');
+const cki = document.getElementById('cki');
+const cai = document.getElementById('cai');
+const caai = document.getElementById('caai');
 
 async function getJSON() {
   res = await fetch(`links.json`);
