@@ -1,6 +1,6 @@
 Build 
 V0.3.8
-Copyright 2025 SCMS Web ™
+Copyright 2026 SCMS Web ™
 
 Developers:
 Pizzaworkspace2, Lead Developer,
