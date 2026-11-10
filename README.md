@@ -18,6 +18,7 @@ Welcome, let me introduce you to the SCMS Student database, a open source websit
   -
   - **🎮 Adds games**
   - **🧠 Knows HTML and CSS**
+  - **🛠️ Worked on resources and sound board**
 
 
 
