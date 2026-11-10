@@ -1,1 +1,45 @@
+body { 
+ background-image: url("a25739e1f5ecb49d1849d7d8cb1382b5.gif");
+  background-size: cover;
+}
 
+.button {
+   text-align: center;
+   border-radius: 8px;
+   length: max-content;
+   width: 250px;
+   font-size: 25px;
+   font-family: inter-semibold;
+   color: white;
+   background-color: rgb(60, 28, 112);
+   border-color: white;
+   border-width: 0.5px;
+   box-shadow: none;
+   outline: none;
+   border-style: solid;
+   cursor: pointer;
+   transition: 0.3s;
+   margin: 5px;
+ transform: scale(1.05);
+}
+h1 {
+ color: dodgerblue;
+}
+p {
+ color: dodgerblue;
+}
+.row {
+  display: flex;
+  flex-direction: row; 
+  gap: 5px;           
+  align-items: center; 
+}
+
+
+
+
+
+
+.button1 {border-radius: 8px;}
+
+  
