@@ -32,7 +32,8 @@ p {
   display: flex;
   flex-direction: row; 
   gap: 5px;           
-  align-items: center; 
+  align-items: center;
+ transform: scale(1.05);
 }
 
 
