@@ -28,7 +28,12 @@ h1 {
 p {
  color: dodgerblue;
 }
-
+.row {
+  display: flex;
+  flex-direction: row; 
+  gap: 5px;           
+  align-items: center; 
+}
 
 
 
