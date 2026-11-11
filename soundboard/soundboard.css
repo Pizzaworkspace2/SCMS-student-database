@@ -19,7 +19,7 @@ body {
    border-style: solid;
    cursor: pointer;
    transition: 0.3s;
-   margin: 5px;
+   margin: 10px;
  transform: scale(1.05);
 }
 h1 {
@@ -31,7 +31,7 @@ p {
 .row {
   display: flex;
   flex-direction: row; 
-  gap: 5px;           
+  gap: 10px;           
   align-items: center;
  transform: scale(1.05);
 }
