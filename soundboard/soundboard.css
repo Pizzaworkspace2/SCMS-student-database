@@ -7,7 +7,7 @@ body {
    text-align: center;
    border-radius: 8px;
    length: max-content;
-   width: 250px;
+   width: 150px;
    font-size: 25px;
    font-family: inter-semibold;
    color: white;
@@ -35,6 +35,8 @@ p {
   align-items: center;
  transform: scale(1.05);
  flex-wrap: wrap;
+ justify-content: center;
+  align-items: center;
 }
 
 
