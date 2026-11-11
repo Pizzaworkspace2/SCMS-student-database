@@ -26,6 +26,7 @@ h1 {
 }
 p {
  color: dodgerblue;
+ text-size: 48px
 }
 .row {
   display: flex;
