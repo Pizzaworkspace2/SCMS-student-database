@@ -5,11 +5,17 @@
 <h1> <center>Sound Board</center></h1>
 <p><center>(Please do not blare in class at max volume)</center></p>
 <div class="row">
-  <!-- 1. Add the hidden audio element with an ID -->
-<audio id="myAudio" src="fahhh.mp3"></audio>
+ <button id="playButton">Play Sound</button>
 
-<!-- 2. Create a button that triggers the play() function -->
-<button class="button row"onclick="document.getElementById('myAudio').play('fahhh.mp3')">Fahhh</button>
+    <script>
+        const button = document.getElementById('playButton');
+        const sound = new Audio('fahhh.mp3');
+
+        button.addEventListener('click', () => {
+            sound.currentTime = 0; // Rewinds to the start if clicked rapidly
+            sound.play();
+        });
+    </script>
 
   <a href="announcements.html"><center> <button class="button row"><u>test</button></a>
   <a href="announcements.html"><center> <button class="button row"><u>test</button></a>
