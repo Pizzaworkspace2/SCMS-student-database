@@ -21,12 +21,16 @@
   <button class="button row" onclick="playVineboom()">Vine boom</button>
 <audio id="vineboom" src="vineboom.mp3"></audio>
 
+  <button class="button row" onclick="playFbi()">FBI open up</button>
+<audio id="fbi" src="fbi.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
   const shutdownAudio = document.getElementById('shutdown');
   const pipeAudio = document.getElementById('pipe');
   const vineboomAudio = document.getElementById('vineboom');
+  const fbiAudio = document.getElementById('fbi');
 
   function playFahhh() {
     fahhhAudio.play();
@@ -43,6 +47,9 @@
   }
    function playVineboom() {
     vineboomAudio.play();
+  }
+  function playFbi() {
+    fbiAudio.play();
   }
 </script>
 
