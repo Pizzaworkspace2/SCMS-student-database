@@ -27,6 +27,9 @@
   <button class="button row" onclick="playOof()">Oof</button>
 <audio id="oof" src="oof.mp3"></audio>
 
+  <button class="button row" onclick="playError()">Windows error</button>
+<audio id="error" src="error.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
@@ -35,6 +38,7 @@
   const vineboomAudio = document.getElementById('vineboom');
   const fbiAudio = document.getElementById('fbi');
   const oofAudio = document.getElementById('oof');
+  const errorAudio = document.getElementById('error');
 
   function playFahhh() {
     fahhhAudio.play();
@@ -57,6 +61,9 @@
   }
   function playOof() {
     oofAudio.play();
+  }
+  function playError() {
+    errorAudio.play();
   }
 </script>
 
