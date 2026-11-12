@@ -18,11 +18,15 @@
   <button class="button row" onclick="playPipe()">Metal pipe</button>
 <audio id="pipe" src="pipe.mp3"></audio>
 
+  <button class="button row" onclick="playVineboom()">Vine boom</button>
+<audio id="vineboom" src="vineboom.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
   const shutdownAudio = document.getElementById('shutdown');
   const pipeAudio = document.getElementById('pipe');
+  const vineboomAudio = document.getElementById('vineboom');
 
   function playFahhh() {
     fahhhAudio.play();
@@ -36,6 +40,9 @@
   }
   function playPipe() {
     pipeAudio.play();
+  }
+   function playVineboom() {
+    vineboomAudio.play();
   }
 </script>
 
