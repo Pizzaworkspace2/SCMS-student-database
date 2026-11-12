@@ -24,6 +24,9 @@
   <button class="button row" onclick="playFbi()">FBI open up</button>
 <audio id="fbi" src="fbi.mp3"></audio>
 
+  <button class="button row" onclick="playOof()">Oof</button>
+<audio id="oof" src="oof.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
@@ -31,6 +34,7 @@
   const pipeAudio = document.getElementById('pipe');
   const vineboomAudio = document.getElementById('vineboom');
   const fbiAudio = document.getElementById('fbi');
+  const oofAudio = document.getElementById('oof');
 
   function playFahhh() {
     fahhhAudio.play();
@@ -50,6 +54,9 @@
   }
   function playFbi() {
     fbiAudio.play();
+  }
+  function playOof() {
+    oofAudio.play();
   }
 </script>
 
