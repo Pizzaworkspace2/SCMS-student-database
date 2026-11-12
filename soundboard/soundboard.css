@@ -6,8 +6,8 @@ body {
 .button {
    text-align: center;
    border-radius: 8px;
-   length: max-content;
-   width: 150px;
+   width: max-content;
+   height: 100px;
    font-size: 25px;
    font-family: inter-semibold;
    color: white;
