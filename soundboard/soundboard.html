@@ -15,10 +15,14 @@
   <button class="button row" onclick="playShutdown()">Windows XP shutdown</button>
 <audio id="shutdown" src="shutdown.mp3"></audio>
 
+  <button class="button row" onclick="playPipe()">Metal pipe</button>
+<audio id="pipe" src="pipe.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
   const shutdownAudio = document.getElementById('shutdown');
+  const pipeAudio = document.getElementById('pipe');
 
   function playFahhh() {
     fahhhAudio.play();
@@ -29,6 +33,9 @@
   }
   function playShutdown() {
     shutdownAudio.play();
+  }
+  function playPipe() {
+    pipeAudio.play();
   }
 </script>
 
