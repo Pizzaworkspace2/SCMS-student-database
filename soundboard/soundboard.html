@@ -12,9 +12,13 @@
 <button class="button row" onclick="playHeli()">Helicopter</button>
 <audio id="heli" src="helicopter.mp3"></audio>
 
+  <button class="button row" onclick="playShutdown()">Windows XP shutdown</button>
+<audio id="shutdown" src="shutdown.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
+  const shutdownAudio = document.getElementById('shutdown');
 
   function playFahhh() {
     fahhhAudio.play();
@@ -22,6 +26,9 @@
 
   function playHeli() {
     heliAudio.play();
+  }
+  function playShutdown() {
+    shutdownAudio.play();
   }
 </script>
 
