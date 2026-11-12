@@ -25,10 +25,10 @@ body {
 }
 h1 {
  color: dodgerblue;
+ font-size: 56px;
 }
 p {
  color: dodgerblue;
- text-size: 48px
 }
 .row {
   display: flex;
