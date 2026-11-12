@@ -30,6 +30,9 @@
   <button class="button row" onclick="playError()">Windows error</button>
 <audio id="error" src="error.mp3"></audio>
 
+  <button class="button row" onclick="playDis()">Spongebob disapointed</button>
+<audio id="dis" src="dis.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
@@ -39,6 +42,7 @@
   const fbiAudio = document.getElementById('fbi');
   const oofAudio = document.getElementById('oof');
   const errorAudio = document.getElementById('error');
+  const disAudio = document.getElementById('dis');
 
   function playFahhh() {
     fahhhAudio.play();
@@ -64,6 +68,9 @@
   }
   function playError() {
     errorAudio.play();
+  }
+  function playDis() {
+    disAudio.play();
   }
 </script>
 
