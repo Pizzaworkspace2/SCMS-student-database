@@ -63,6 +63,9 @@
   <button class="button row" onclick="playWow()">Wow</button>
 <audio id="wow" src="wow.mp3"></audio>
 
+  <button class="button row" onclick="playLim()">Loud Indian music</button>
+<audio id="lim" src="lim.mp3"></audio>
+
 
 <script>
   const fahhhAudio = document.getElementById('fahhh');
@@ -84,6 +87,8 @@
   const huhAudio = document.getElementById('huh');
   const noAudio = document.getElementById('no');
   const wowAudio = document.getElementById('wow');
+  const limAudio = document.getElementById('lim');
+  
   
   
   function playFahhh() {
@@ -144,6 +149,10 @@
    function playWow() {
     wowAudio.play();
   }
+   function playLim() {
+    limAudio.play();
+  }
+  
   
   
 
