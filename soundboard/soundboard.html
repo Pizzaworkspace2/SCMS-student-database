@@ -33,6 +33,9 @@
   <button class="button row" onclick="playDis()">Spongebob disapointed</button>
 <audio id="dis" src="dis.mp3"></audio>
 
+  <button class="button row" onclick="playOmg()">Oh my god</button>
+<audio id="omg" src="omg.mp3"></audio>
+
 <script>
   const fahhhAudio = document.getElementById('fahhh');
   const heliAudio = document.getElementById('heli');
@@ -43,6 +46,7 @@
   const oofAudio = document.getElementById('oof');
   const errorAudio = document.getElementById('error');
   const disAudio = document.getElementById('dis');
+  const omgAudio = document.getElementById('omg');
   
   function playFahhh() {
     fahhhAudio.play();
@@ -71,6 +75,9 @@
   }
   function playDis() {
     disAudio.play();
+  }
+  function playOmg() {
+    omgAudio.play();
   }
 
 </script>
