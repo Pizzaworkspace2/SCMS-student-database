@@ -45,8 +45,8 @@
   <button class="button row" onclick="playAugh()">oughhhh</button>
 <audio id="augh" src="augh.mp3"></audio>
 
-  <button class="button row" onclick="playOmg()">Oh my god</button>
-<audio id="omg" src="omg.mp3"></audio>
+  <button class="button row" onclick="playOh()">Oh no no no</button>
+<audio id="oh" src="oh.mp3"></audio>
 
   <button class="button row" onclick="playOmg()">Oh my god</button>
 <audio id="omg" src="omg.mp3"></audio>
@@ -66,6 +66,7 @@
   const krikAudio = document.getElementById('krik');
   const explodeAudio = document.getElementById('explode');
   const aughAudio = document.getElementById('augh');
+  const ohAudio = document.getElementById('oh');
   
   
   function playFahhh() {
@@ -108,6 +109,9 @@
   }
   function playAugh() {
     aughAudio.play();
+  }
+   function playOh() {
+    ohAudio.play();
   }
   
 
