@@ -48,8 +48,8 @@
   <button class="button row" onclick="playOh()">Oh no no no</button>
 <audio id="oh" src="oh.mp3"></audio>
 
-  <button class="button row" onclick="playOmg()">Oh my god</button>
-<audio id="omg" src="omg.mp3"></audio>
+  <button class="button row" onclick="playAmong()">Among us</button>
+<audio id="among" src="among.mp3"></audio>
 
 
 <script>
@@ -67,6 +67,7 @@
   const explodeAudio = document.getElementById('explode');
   const aughAudio = document.getElementById('augh');
   const ohAudio = document.getElementById('oh');
+  const amongAudio = document.getElementById('among');
   
   
   function playFahhh() {
@@ -112,6 +113,9 @@
   }
    function playOh() {
     ohAudio.play();
+  }
+   function playAmong() {
+    amongAudio.play();
   }
   
 
