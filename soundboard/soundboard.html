@@ -60,6 +60,9 @@
    <button class="button row" onclick="playNo()">No</button>
 <audio id="no" src="no.mp3"></audio>
 
+  <button class="button row" onclick="playWow()">Wow</button>
+<audio id="wow" src="wow.mp3"></audio>
+
 
 <script>
   const fahhhAudio = document.getElementById('fahhh');
@@ -80,6 +83,7 @@
   const fortAudio = document.getElementById('fort');
   const huhAudio = document.getElementById('huh');
   const noAudio = document.getElementById('no');
+  const wowAudio = document.getElementById('wow');
   
   
   function playFahhh() {
@@ -136,6 +140,9 @@
   }
    function playNo() {
     noAudio.play();
+  }
+   function playWow() {
+    wowAudio.play();
   }
   
   
