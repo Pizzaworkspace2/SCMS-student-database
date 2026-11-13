@@ -51,6 +51,9 @@
   <button class="button row" onclick="playAmong()">Among us</button>
 <audio id="among" src="among.mp3"></audio>
 
+  <button class="button row" onclick="playFort()">Fortnite death</button>
+<audio id="fort" src="fort.mp3"></audio>
+
 
 <script>
   const fahhhAudio = document.getElementById('fahhh');
@@ -68,6 +71,7 @@
   const aughAudio = document.getElementById('augh');
   const ohAudio = document.getElementById('oh');
   const amongAudio = document.getElementById('among');
+  const fortAudio = document.getElementById('fort');
   
   
   function playFahhh() {
@@ -116,6 +120,9 @@
   }
    function playAmong() {
     amongAudio.play();
+  }
+   function playFort() {
+    fortAudio.play();
   }
   
 
