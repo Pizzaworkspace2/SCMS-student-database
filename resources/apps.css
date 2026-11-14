@@ -23,7 +23,7 @@ body {
    cursor: pointer;
    transition: 0.3s;
    margin: 35px;
-
+   padding: 100px
 }
 .button1 {
    border-radius: 16px;
