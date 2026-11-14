@@ -22,7 +22,7 @@ body {
    border-style: solid;
    cursor: pointer;
    transition: 0.3s;
-   margin: 35px;
+   margin: 70px;
 }
 .button1 {
    border-radius: 16px;
@@ -34,7 +34,7 @@ body {
    opacity: 0.6;
    background-color: rgb(255, 255, 255);
    height: 260px;
-   width: 600px;
+   width: 700px;
    float: left;
          }
 .button2:hover {
