@@ -12,6 +12,7 @@ const cki = document.getElementById('cki');
 const cai = document.getElementById('cai');
 const caai = document.getElementById('caai');
 const mas = document.getElementById('mas');
+const ty = document.getElementById('ty');
 
 async function getJSON() {
   res = await fetch(`links.json`);
