@@ -78,6 +78,10 @@
   <button class="button row" onclick="playScream()">Screaming goats</button>
 <audio id="scream" src="scream.mp3"></audio>
 
+  <button class="button row" onclick="playBruh()">Bruh</button>
+<audio id="bruh" src="bruh.mp3"></audio>
+
+
 
 <script>
   const fahhhAudio = document.getElementById('fahhh');
@@ -104,6 +108,7 @@
   const vbsAudio = document.getElementById('vbs');
   const fartAudio = document.getElementById('fart');
   const screamAudio = document.getElementById('scream');
+  const bruhAudio = document.getElementById('bruh');
   
   
   function playFahhh() {
@@ -178,6 +183,9 @@
   }
    function playScream() {
     screamAudio.play();
+  }
+   function playBruh() {
+    bruhAudio.play();
   }
   
   
