@@ -81,6 +81,10 @@
   <button class="button row" onclick="playBruh()">Bruh</button>
 <audio id="bruh" src="bruh.mp3"></audio>
 
+   <button class="button row" onclick="playRar()">Raaar</button>
+<audio id="rar" src="rar.mp3"></audio>
+
+
 
 
 <script>
@@ -109,6 +113,7 @@
   const fartAudio = document.getElementById('fart');
   const screamAudio = document.getElementById('scream');
   const bruhAudio = document.getElementById('bruh');
+  const rarAudio = document.getElementById('rar');
   
   
   function playFahhh() {
@@ -186,6 +191,9 @@
   }
    function playBruh() {
     bruhAudio.play();
+  }
+   function playRar() {
+    rarAudio.play();
   }
   
   
