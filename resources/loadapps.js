@@ -38,6 +38,7 @@ type.href = link.type;
 wayground.href = link.wayground;
 nced.href = link.nced;
 sora.href = link.sora;
+code.href = link.code;
 cli.src = link.cli;
 cki.src = link.cki;
 cai.src = link.cai;
