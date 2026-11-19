@@ -10,6 +10,7 @@ const master = document.getElementById('master');
 const type = document.getElementById('type');
 const wayground = document.getElementById('wayground');
 const nced = document.getElementById('nced');
+const sora = document.getElementById('sora');
 const cli = document.getElementById('cli');
 const cki = document.getElementById('cki');
 const cai = document.getElementById('cai');
@@ -18,6 +19,7 @@ const mas = document.getElementById('mas');
 const ty = document.getElementById('ty');
 const wg = document.getElementById('wg');
 const cloud = document.getElementById('cloud');
+const so = document.getElementById('so');
 
 async function getJSON() {
   res = await fetch(`links.json`);
@@ -41,6 +43,7 @@ mas.src = link.mas;
 ty.src = link.ty;
 wg.src = link.wg;
 cloud.src = link.cloud;
+so.src = link.so;
 
   });
 });
