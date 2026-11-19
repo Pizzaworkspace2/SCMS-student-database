@@ -35,6 +35,7 @@ master.href = link.master;
 type.href = link.type;
 wayground.href = link.wayground;
 nced.href = link.nced;
+sora.href = link.sora;
 cli.src = link.cli;
 cki.src = link.cki;
 cai.src = link.cai;
