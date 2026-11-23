@@ -1,7 +1,7 @@
 @font-face {
   font-weight: normal;
   font-family: "candy";
-  src: url("Candytime-lL7y.ttf");
+  src: url("../Candytime-lL7y.ttf");
 }
 body { 
  background-image: url('../forest.gif');
