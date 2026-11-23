@@ -48,7 +48,8 @@ img {
 
 h1 {
   font-size: 56px;
-color: dodgerblue
+color: dodgerblue;
+font-family: candy;
 }
 .button2 {
   height: 75px;
