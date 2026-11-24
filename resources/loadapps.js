@@ -13,6 +13,7 @@ const nced = document.getElementById('nced');
 const sora = document.getElementById('sora');
 const code = document.getElementById('code');
 const online = document.getElementById('online');
+const smart = document.getElementById('smart');
 const cli = document.getElementById('cli');
 const cki = document.getElementById('cki');
 const cai = document.getElementById('cai');
@@ -24,6 +25,7 @@ const cloud = document.getElementById('cloud');
 const so = document.getElementById('so');
 const ai = document.getElementById('ai');
 const dbq = document.getElementById('dbq');
+const pass = document.getElementById('pass');
 
 async function getJSON() {
   res = await fetch(`links.json`);
@@ -42,6 +44,7 @@ nced.href = link.nced;
 sora.href = link.sora;
 code.href = link.code;
 online.href = link.online;
+smart.href = link.smart;
 cli.src = link.cli;
 cki.src = link.cki;
 cai.src = link.cai;
@@ -53,6 +56,7 @@ cloud.src = link.cloud;
 so.src = link.so;
 ai.src = link.ai;
 dbq.src = link.dbq;
+pass.src = link.pass;
 
   });
 });
